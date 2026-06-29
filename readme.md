@@ -9,4 +9,8 @@ Esse readme já está trackeado, após encerrar essa frase farei o commit e depo
 
 ### Eduarda te amo 
 
-Amo muito mesmo
+Amo muito mesmo 
+
+#### Adicionando recurso de forma remota
+
+Testando editar aqui e puxar na branch local principal

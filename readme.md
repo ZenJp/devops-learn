@@ -7,9 +7,9 @@ Essa é a construção do primeiro readme, pra fins de orientação própria.
 
 Esse readme já está trackeado, após encerrar essa frase farei o commit e depois o push pro meu diretório.
 
-### Eduarda te amo 
+### Teste de automação de retina do git hub
 
-Amo muito mesmo 
+Testando script montado encima da tecla "D" 
 
 #### Adicionando recurso de forma remota
 

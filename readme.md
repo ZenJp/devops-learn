@@ -7,9 +7,9 @@ Essa é a construção do primeiro readme, pra fins de orientação própria.
 
 Esse readme já está trackeado, após encerrar essa frase farei o commit e depois o push pro meu diretório.
 
-### Teste de automação de retina do git hub
+### Teste de automação de rotina do github
 
-Testando script montado encima da tecla "D" 
+Testando script montado encima da tecla "D" e commit com mensagem padrão 
 
 #### Adicionando recurso de forma remota
 
